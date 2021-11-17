@@ -7,3 +7,5 @@ for i in range(len(secuence)):								                              O(n)
             break									                                          O(1)
 
 O(r) = O(1) + O(1) + O(n)[4*O(1)] = O(n)
+
+Grupo #4
